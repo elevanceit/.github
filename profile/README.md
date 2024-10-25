@@ -1,5 +1,3 @@
-Elevance Innovation Technology™ — where your global impact meets worldwide innovation. Elevate your impact, enhance your relevance.®
-
 [**[Hire A Talent](https://tally.so/r/3lldZB)**]
 [**[Request A Quote](https://tally.so/r/3lldZB)**]
 [**[Find A Jobs](https://tally.so/r/3j9Qza)**] \_\_\_
