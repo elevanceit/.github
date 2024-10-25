@@ -1,6 +1,7 @@
 # Elevance Innovation Technology
 
 ## About Us
+
 Elevance Innovation Technology is at the forefront of transforming the talent acquisition and development landscape with its pioneering solutions. By leveraging state-of-the-art technology and strategic insights, Elevance is redefining how businesses identify, attract, and manage top talent. Their innovative approach integrates a remote-first, decentralized AI-driven talent network, which connects professionals from around the globe, creating a dynamic and highly responsive ecosystem.
 
 This advanced network enables companies to tap into a diverse pool of expertise regardless of geographical constraints. With Elevance’s technology, businesses can seamlessly access a broad spectrum of skills and knowledge, ensuring they have the right talent to meet their unique needs. The platform’s AI-driven algorithms not only streamline the hiring process but also enhance talent development by providing actionable insights and predictive analytics.
@@ -16,24 +17,31 @@ More information about our mission and commitment to developers and clients can 
 ---
 
 ## Website
+
 [https://elevanceit.com](https://elevanceit.com)
 
 ### Industry
+
 Software Development
 
 ### Company Size
+
 11-50 employees
 
 ### Headquarters
+
 Work from Anywhere, Remote
 
 ### Type
+
 Public Company
 
 ### Founded
+
 2023
 
 ### Specialties
+
 - B2B
 - AI
 - WEB3
