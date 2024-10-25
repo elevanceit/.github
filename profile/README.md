@@ -1,4 +1,32 @@
-# Elevance Innovation Technology
+Elevance Innovation Technology™ — where your global impact meets worldwide innovation. Elevate your impact, enhance your relevance.®
+
+[**[Hire A Talent](https://tally.so/r/3lldZB)**]
+[**[Request A Quote](https://tally.so/r/3lldZB)**]
+[**[Find A Jobs](https://tally.so/r/3j9Qza)**] \_\_\_
+[**[For Companies](https://tally.so/r/3lldZB)**]
+[**[For Developers](https://tally.so/r/3j9Qza)**]
+
+[**[Chat With Us](#chat-with-us)**]
+[**[Work With Us](#work-with-us)**]
+[**[Contribute With Us](#contribute-with-us)**]
+
+<p align="center">
+<a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/1.png"></a>
+<a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/2.png"></a>
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/3.png"></a>
+</p>
+<p align="center">
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/4.png"></a>
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/5.png"></a>
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/6.png"></a>
+</p>
+<p align="center">
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/7.png"></a>
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/8.png"></a>
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/9.png"></a>
+</p>
+
+---
 
 ## About Us
 
@@ -13,6 +41,31 @@ In essence, Elevance Innovation Technology is revolutionizing the talent landsca
 More information about our mission and commitment to developers and clients can be found at [https://elevanceit.com](https://elevanceit.com).
 
 ✔️ Freelance | ✔️ Full-Time | ✔️ Part-Time | ✔️ Contract | ✔️ In-House
+
+## Chat With Us
+
+[**Website**](https://www.linkedin.com/company/elevance-innovation-technology)
+
+## Work With Us
+
+We offer diverse opportunities for professionals ready to make a difference. Whether you're seeking freelance, full-time, part-time, or contract work, we have options tailored to your skills and aspirations.
+
+- **For Developers:** Join a thriving ecosystem that values innovation and skill. We match talent with projects where they can truly excel. [**Apply Here**](https://tally.so/r/3j9Qza)
+- **For Companies:** Let us help you build a team of top talent ready to tackle complex challenges and deliver exceptional results. [**Contact Us**](https://tally.so/r/3lldZB)
+
+Complete the relevant form, and we will respond within 5 business days.
+
+## Contribute With Us
+
+Join our open-source initiatives, contribute to transformative projects, and grow your skills within a supportive, developer-driven community.
+
+Follow these steps to get started:
+
+1. Follow our organization’s GitHub page.
+2. Await an invitation: We will review your profile and send an invitation to your email shortly.
+3. Set your profile visibility: After joining, navigate to the "People" section on GitHub, locate your profile, and set your visibility to "Public."
+
+We look forward to your contributions and to building impactful solutions together.
 
 ---
 
