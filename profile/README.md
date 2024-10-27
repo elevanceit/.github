@@ -2,7 +2,7 @@
     <img src="https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge">
 </a>
 
-<a href="https://github.com/elevance-it/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Organization">
+<a href="https://github.com/elevanceit/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Organization">
 <img src="https://img.shields.io/badge/Application-blue?style=for-the-badge">
 </a>
 
