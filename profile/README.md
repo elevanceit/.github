@@ -1,3 +1,11 @@
+<a href="https://join.slack.com/t/elevance-it/shared_invite/zt-2tcaaivlf-5QxRlx2sXSSDuZHSkAk0xQ" target="_blank">
+    <img src="https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge">
+</a>
+
+<a href="https://github.com/elevance-it/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Organization">
+<img src="https://img.shields.io/badge/Application-blue?style=for-the-badge">
+</a>
+
 <a href="https://www.linkedin.com/company/elevance-innovation-technology" target="_blank"><img width="100%" src="./images/hero_0.5.png"></a>
 [**[Hire A Talent](https://tally.so/r/3lldZB)**]
 [**[Request A Quote](https://tally.so/r/3lldZB)**]
