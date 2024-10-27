@@ -1,6 +1,6 @@
 <a href="https://github.com/elevanceit/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Organization">
 <img src="https://img.shields.io/badge/Invitation to the GitHub Organization-1f883d?style=for-the-badge">
-</a>
+</a><br><br>
 
 <a href="https://www.linkedin.com/company/elevance-innovation-technology" target="_blank"><img width="100%" src="./images/hero_0.5.png"></a>
 [**[Hire A Talent](https://tally.so/r/3lldZB)**]
