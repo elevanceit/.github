@@ -5,9 +5,10 @@
 <a href="https://www.linkedin.com/company/elevance-innovation-technology" target="_blank"><img width="100%" src="./images/hero_0.5.png"></a>
 [**[Hire A Talent](https://tally.so/r/3lldZB)**]
 [**[Request A Quote](https://tally.so/r/3lldZB)**]
-[**[Find A Jobs](https://tally.so/r/3j9Qza)**] \_\_\_
+[**[Find A Job](https://tally.so/r/3j9Qza)**] \_\_\_
 [**[For Companies](https://tally.so/r/3lldZB)**]
 [**[For Developers](https://tally.so/r/3j9Qza)**]
+[**[For Contributors](https://tally.so/r/mex21q)**]
 
 [**[Chat With Us](#chat-with-us)**]
 [**[Work With Us](#work-with-us)**]
@@ -57,6 +58,7 @@ We offer diverse opportunities for professionals ready to make a difference. Whe
 
 - **For Developers:** Join a thriving ecosystem that values innovation and skill. We match talent with projects where they can truly excel. [**Apply Here**](https://tally.so/r/3j9Qza)
 - **For Companies:** Let us help you build a team of top talent ready to tackle complex challenges and deliver exceptional results. [**Contact Us**](https://tally.so/r/3lldZB)
+- **For Contributors:** Be part of an impactful journey, gain mentorship, and grow your skills on real projects with a supportive community. [**Join Us**](https://tally.so/r/mex21q)
 
 Complete the relevant form, and we will respond within 5 business days.
 
@@ -67,8 +69,9 @@ Join our open-source initiatives, contribute to transformative projects, and gro
 Follow these steps to get started:
 
 1. Follow our organization’s GitHub page.
-2. Await an invitation: We will review your profile and send an invitation to your email shortly.
-3. Set your profile visibility: After joining, navigate to the "People" section on GitHub, locate your profile, and set your visibility to "Public."
+2. [**Fill out the form.**](https://tally.so/r/mex21q)
+3. Await an invitation: We will review your profile and send an invitation to your email shortly.
+4. Set your profile visibility: After joining, navigate to the "People" section on GitHub, locate your profile, and set your visibility to "Public."
 
 We look forward to your contributions and to building impactful solutions together.
 
