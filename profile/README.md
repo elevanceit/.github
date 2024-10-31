@@ -81,45 +81,15 @@ We look forward to your contributions and to building impactful solutions togeth
 
 [https://elevanceit.com](https://elevanceit.com)
 
-### Industry
+### Company Information
 
-Software Development
-
-### Company Size
-
-11-50 employees
-
-### Headquarters
-
-Work from Anywhere, Remote
-
-### Type
-
-Public Company
-
-### Founded
-
-2023
+| Industry     | Software Development       |
+| ------------ | -------------------------- |
+| Company Size | 11-50 employees            |
+| Headquarters | Work from Anywhere, Remote |
+| Type         | Public Company             |
+| Founded      | 2023                       |
 
 ### Specialties
 
-- B2B
-- AI
-- WEB3
-- CRYPTO
-- Hiring
-- Interviewing
-- Engineering
-- Recruiting
-- Marketing
-- Matching
-- Sourcing
-- Talent
-- Freelance
-- Hire Developers
-- AI Services
-- WEB3 Services
-- CRYPTO Services
-- Tech Services
-- LLM Trainer Services
-- Machine Learning
+B2B, AI, WEB3, CRYPTO, Hiring, Interviewing, Engineering, Recruiting, Marketing, Matching, Sourcing, Talent, Freelance, Hire Developers, AI Services, WEB3 Services, CRYPTO Services, Tech Services, LLM Trainer Services, Machine Learning
