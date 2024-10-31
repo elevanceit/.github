@@ -27,7 +27,7 @@
 <p align="center">
 <a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/7.png"></a>
 <a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/8.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/9.png"></a>
+<a href="https://tally.so/r/mex21q" target="_blank"><img width="32%" src="./images/banners/9.png"></a>
 </p>
 
 ---
