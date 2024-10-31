@@ -33,15 +33,17 @@
 
 ## About Us
 
-Elevance Innovation Technology is at the forefront of transforming the talent acquisition and development landscape with its pioneering solutions. By leveraging state-of-the-art technology and strategic insights, Elevance is redefining how businesses identify, attract, and manage top talent. Their innovative approach integrates a remote-first, decentralized AI-driven talent network, which connects professionals from around the globe, creating a dynamic and highly responsive ecosystem.
+We're building an elite freelance platform designed to highlight top developers, where skilled professionals are carefully verified and showcased for clients. Hourly rates for verified developers will start at $30, and our onboarding process will ensure only the highest standards, helping clients find the right talent with confidence.
 
-This advanced network enables companies to tap into a diverse pool of expertise regardless of geographical constraints. With Elevance’s technology, businesses can seamlessly access a broad spectrum of skills and knowledge, ensuring they have the right talent to meet their unique needs. The platform’s AI-driven algorithms not only streamline the hiring process but also enhance talent development by providing actionable insights and predictive analytics.
+Our project is led by a developer with extensive experience in building top-tier freelance platforms, along with a strong background in managing and leading both the technical and strategic sides of startups. This gives us deep insights into the technical and user needs of such systems. We’re fully aware of the challenges these platforms face, from exclusivity issues to limited scalability. Our goal is to build a scalable, inclusive platform that directly addresses these challenges, offering greater accessibility and opportunity for skilled developers and clients alike.
 
-Elevance's commitment to flexibility and efficiency allows organizations to manage their talent resources with unprecedented agility. Professionals can connect and collaborate with businesses anytime, anywhere, breaking down traditional barriers and fostering a more inclusive and adaptable work environment. This remote-first approach is not just a response to the evolving global workforce but a strategic advantage that positions businesses to thrive in a rapidly changing market.
+Why This Platform?
+Our strategy starts with our strengths in outstaffing and outsourcing services, allowing us to generate early revenue and expand our network. This approach lets us take on projects as a Core team, growing both our client and developer communities while we develop a strong base.
 
-In essence, Elevance Innovation Technology is revolutionizing the talent landscape by making expertise universally accessible and effortlessly manageable. Their cutting-edge solutions empower businesses to stay ahead of the curve, ensuring they can navigate the complexities of talent acquisition and development with confidence and ease.
+Open-Source and Contributor Rewards
+We’re developing this platform as an open-source project and inviting contributors to join us at this early stage. Contributors will gain access to mentorship and rewards based on their level of involvement. Up to 50 contributors will have exclusive access to guided mentorship and structured rewards for their work on the platform.
 
-More information about our mission and commitment to developers and clients can be found at [https://elevanceit.com](https://elevanceit.com).
+If you're interested in being part of a platform that sets a new standard for freelance tech hiring, let’s chat!
 
 ✔️ Freelance | ✔️ Full-Time | ✔️ Part-Time | ✔️ Contract | ✔️ In-House
 
