@@ -104,7 +104,7 @@ B2B, AI, WEB3, CRYPTO, Hiring, Interviewing, Engineering, Recruiting, Marketing,
 <p align="center"><strong>Connect With Us</strong></p>
 
 <p align="center">
-<a href="mailto:support@elevanceit.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:support@elevanceit.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://x.com/elevanceit">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
 </a>
