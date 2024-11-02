@@ -95,3 +95,26 @@ We look forward to your contributions and to building impactful solutions togeth
 ### Specialties
 
 B2B, AI, WEB3, CRYPTO, Hiring, Interviewing, Engineering, Recruiting, Marketing, Matching, Sourcing, Talent, Freelance, Hire Developers, AI Services, WEB3 Services, CRYPTO Services, Tech Services, LLM Trainer Services, Machine Learning
+
+<br>
+
+<p align="center">Join our <a href="https://github.com/elevanceit/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Organization">GitHub Organization :octocat:</a> and continue to contribute to our Open Source Software ✨</p>
+<img width="100%" src="./images/line.gif">
+
+<p align="center"><strong>Connect With Us</strong></p>
+
+<p align="center">
+<a href="mailto:support@elevanceit.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://x.com/elevanceit">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
+</a>
+<a href="https://www.linkedin.com/company/elevance-innovation-technology">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://t.me/ElevanceIT">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+<a href="https://elevanceit.com/">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Website">
+</a>
+</p>
